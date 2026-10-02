@@ -1,0 +1,67 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "paginas": 471,
+      "genero": "Realismo mágico"
+    },
+    {
+      "id": 2,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "paginas": 863,
+      "genero": "Novela"
+    },
+    {
+      "id": 4,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "paginas": 328,
+      "genero": "Ciencia ficción"
+    },
+    {
+      "id": 5,
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "paginas": 256,
+      "genero": "Ciencia ficción"
+    },
+    {
+      "id": 6,
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "paginas": 432,
+      "genero": "Romance"
+    },
+    {
+      "id": 7,
+      "titulo": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "paginas": 130,
+      "genero": "Realismo mágico"
+    },
+    {
+      "id": 8,
+      "titulo": "El hobbit",
+      "autor": "J.R.R. Tolkien",
+      "paginas": 310,
+      "genero": "Fantasía"
+    },
+    {
+      "id": 9,
+      "titulo": "Crónica de una muerte anunciada",
+      "autor": "Gabriel García Márquez",
+      "paginas": 120,
+      "genero": "Novela"
+    },
+    {
+      "id": 10,
+      "titulo": "Ensayo sobre la ceguera",
+      "autor": "José Saramago",
+      "paginas": 328,
+      "genero": "Ficción"
+    }
+  ]
+}

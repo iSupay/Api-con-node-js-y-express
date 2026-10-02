@@ -1,0 +1,30 @@
+GET http://localhost:3000/books
+
+###
+
+GET http://localhost:3000/books/1
+
+###
+
+POST http://localhost:3000/books HTTP/1.1
+Content-Type: application/json
+
+{
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "paginas": 471,
+      "genero": "Realismo mágico"
+}
+
+###
+
+PUT http://localhost:3000/books/3 HTTP/1.1
+Content-Type: application/json
+
+{
+    "paginas": 471
+}
+
+###
+
+DELETE http://localhost:3000/books/3 HTTP/1.1

@@ -1,0 +1,20 @@
+{
+  "name": "simple-nodejs-api",
+  "version": "1.0.0",
+  "description": "esta es mi primer api desarrollada con nodejs",
+  "keywords": [ ],
+  "license": "ISC",
+  "author": "Arath García",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+ 
